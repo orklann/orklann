@@ -1,4 +1,4 @@
-[<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://i.ibb.co/LCG97p0/nvim-screenshot.png" />
 </div>
 
