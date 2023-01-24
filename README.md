@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://i.ibb.co/hgGMLw4/linux.png" width=250 />
+[<div id="header" align="center">
+  <img src="https://i.ibb.co/LCG97p0/nvim-screenshot.png" />
 </div>
-
 
 <!--
 **orklann/orklann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
